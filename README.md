@@ -1,0 +1,1 @@
+Primeiro projeto criado utilizando JavaScript, é um projeto bem simples e carente de melhorias, porém, aos poucos irei aplicando as mesmas.
